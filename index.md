@@ -1,13 +1,18 @@
 ## Max Planck Institute for Biological Intelligence - Reporting Links
 
-You can use the [editor on GitHub](https://github.com/reportMPIBI/reportMPIBI.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Whereas you've witnessed or were the victim of abuse at the MPI for BI, you can report it to the person of your choice below
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Gender Equality Officers
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Postdoc representatives
+
+
+### PhD students representatives 
+
+
+### Ombudsperson
 ```markdown
 Syntax highlighted code block
 
