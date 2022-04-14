@@ -2,18 +2,23 @@
 layout: default
 ---
 
-Whether you've witnessed or been the victim of abuse/harassment at the workplace, you can report it to the person of your choice using the information listed below.
+
 
 # Gender Equality Officers
+_If you want to report gender-based discrimination or sexual harassment you can contact your local GEO. You can also contact the Center Gender Equality office if you do not feel comfortable reaching out to a local person._
 
 - Martinsried (Max Planck Institute of Neurobiology)
   - Jayne Lambert (Assistant to the Managing Director)
   - Meryl Malezieux (Postdoc Gogolla Lab)
  
-- Seewiesen
+- Seewiesen (Max Planck Institute of Ornithology)
   - Sabine Spehn (Head of Communications)
 
+- Central Gender Equality Officer
+  - Ulla Weber 
+
 # Postdoc Representatives
+_Postdoc or PhD students representatives can help you if you want to report any work-related issue_
 
 - Martinsried (Max Planck Institute of Neurobiology)
   - group email
