@@ -1,6 +1,7 @@
 title: Reporting links Max Planck Institute for Biological Intelligence
 logo: /assets/img/logo.png 
-description: rrr
+qr-code: /assets/img/qr-code.png 
+description: 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
