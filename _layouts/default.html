@@ -21,6 +21,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.qr-code %}
+          <img src="{{site.qr-code | relative_url}}" alt="qr-code" />
+        {% endif %}
+		
+		
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
