@@ -91,8 +91,6 @@ end
 
 ### Small image
 
-![Octocat](/assets/img/logo.png )
-
 ### Large image
 
 
