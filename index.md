@@ -1,4 +1,4 @@
-## Max Planck Institute for Biological Intelligence - Reporting Links
+
 
 Whereas you've witnessed or were the victim of abuse at the MPI for BI, you can report it to the person of your choice below
 
