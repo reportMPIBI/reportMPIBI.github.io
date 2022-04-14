@@ -9,7 +9,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 Whether you've witnessed or been the victim of abuse at the workplace, you can report it to the person of your choice using the information listed below.
 # Gender Equality Officers
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Martinsried (Max Planck Institute of Neurobiology)
+  - Jayne Lambert (Assistant to the Managing Director)
+  - Meryl Malezieux (Postdoc Gogolla Lab)
 
 # Postdoc Representatives
 
