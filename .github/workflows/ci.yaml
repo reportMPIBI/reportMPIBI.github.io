@@ -15,4 +15,5 @@ jobs:
       - name: build
         run: script/bootstrap
       - name: test
+        allow_failure: true
         run: script/cibuild
