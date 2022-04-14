@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Max Planck Institute for Biological Intelligence - Reporting Links
 
 You can use the [editor on GitHub](https://github.com/reportMPIBI/reportMPIBI.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
