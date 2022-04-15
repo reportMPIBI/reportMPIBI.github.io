@@ -5,38 +5,41 @@ layout: default
 
 
 # Gender Equality Officers
-_If you want to report gender-based discrimination or sexual harassment you can contact your local GEO. You can also contact the Center Gender Equality office if you do not feel comfortable reaching out to a local person._
+_If you want to report gender-based discrimination or sexual harassment you can contact your local GEO. You can also contact the Central Gender Equality office if you do not feel comfortable reaching out to a local person._
 
-- Martinsried (Max Planck Institute of Neurobiology)
+- Max Planck Institute of Neurobiology (Martinsried)
   - Jayne Lambert (Assistant to the Managing Director)
-  - Meryl Malezieux (Postdoc Gogolla Lab)
+  - [Dr. Meryl Malezieux](mailto:meryl.malezieux@bi.mpg.de) (Postdoc Gogolla Lab)
  
-- Seewiesen (Max Planck Institute of Ornithology)
+- Max Planck Institute of Ornithology (Seewiesen)
   - Sabine Spehn (Head of Communications)
 
 - Central Gender Equality Officer
   - Ulla Weber 
+  
 
 # Postdoc Representatives
-_Postdoc or PhD students representatives can help you if you want to report any work-related issue_
+_Postdoc or PhD students representatives can help you with any work-related issue_
 
-- Martinsried (Max Planck Institute of Neurobiology)
+- Max Planck Institute of Neurobiology (Martinsried)
   - group email
   - Individual contacts:
 	  - Joseph Donovan (Baier Lab)
 	  - Brad Edelman (Mace Lab)
 	 
-- Seewiesen
-  - Sabine Spehn (Head of Communications)
+- Max Planck Institute of Ornithology (Seewiesen)
+  - 
 
 # PhD students Representatives
 
-- Martinsried (Max Planck Institute of Neurobiology)
-  - Joseph Donovan (Baier Lab)
-  - Brad Edelman (Mace Lab)
+- Max Planck Institute of Neurobiology (Martinsried)
+  - group email
+  - Individual contacts:
+	  - Uwe (Bonhoeffer Lab)
+	  - 
  
-- Seewiesen
-  - Sabine Spehn (Head of Communications)
+- Max Planck Institute of Ornithology (Seewiesen)
+  - 
 
 # Ombudsperson
 
@@ -45,6 +48,14 @@ _Postdoc or PhD students representatives can help you if you want to report any 
 *   This is an unordered list following a header.
 
 
-
+<ul>
+{% for member in site.data.members %}
+  <li>
+    <a href="https://github.com/{{ member.email }}">
+      {{ member.name }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
 
 
