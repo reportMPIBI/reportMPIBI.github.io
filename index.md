@@ -5,27 +5,60 @@ layout: default
 
 
 # Gender Equality Officers
-_If you want to report gender-based discrimination or sexual harassment you can contact your local GEO. You can also contact the Central Gender Equality office if you do not feel comfortable reaching out to a local person._
+_If you want to report gender-based discrimination or sexual harassment you can contact your local GEO. If you do not feel comfortable reaching out to a local person, you can also contact the Central Gender Equality office ._
 
 - Max Planck Institute of Neurobiology (Martinsried)
-  - Jayne Lambert (Assistant to the Managing Director)
-  - [Dr. Meryl Malezieux](mailto:meryl.malezieux@bi.mpg.de) (Postdoc Gogolla Lab)
- 
+	<ul>
+	{% for member in site.data.members %}
+		{% if member.position == "local GEO (MPIN)" %}
+		  <li>
+			<a href="mailto:{{ member.email }}">
+			  {{ member.name }}
+			</a>
+			  ({{ member.lab }})
+		  </li>
+		  {% endif %}
+		{% endfor %}
+	</ul>
+
 - Max Planck Institute of Ornithology (Seewiesen)
-  - Sabine Spehn (Head of Communications)
+	<ul>
+	{% for member in site.data.members %}
+		{% if member.position == "local GEO (MPIO)" %}
+		  <li>
+			<a href="mailto:{{ member.email }}">
+			  {{ member.name }}
+			</a>
+			  ({{ member.lab }})
+		  </li>
+		  {% endif %}
+		{% endfor %}
+	</ul>
 
 - Central Gender Equality Officer
-  - Ulla Weber 
+	<ul>
+	{% for member in site.data.members %}
+		{% if member.position == "central GEO" %}
+		  <li>
+			<a href="mailto:{{ member.email }}">
+			  {{ member.name }}
+			</a>
+			  {{ member.lab }}
+		  </li>
+		  {% endif %}
+		{% endfor %}
+	</ul>
+
   
 
 # Postdoc Representatives
 _Postdoc or PhD students representatives can help you with any work-related issue_
 
 - Max Planck Institute of Neurobiology (Martinsried)
-  - group email
+  - [Postdocs representatives](mailto:postdoc-representatives@neuro.mpg.de)
   - Individual contacts:
-	  - Joseph Donovan (Baier Lab)
-	  - Brad Edelman (Mace Lab)
+	  - [Joseph Donovan](mailto:joe@bi.mpg.de) (Baier Lab)
+	  - [Brad Edelman](mailto:bradley.edelman@bi.mpg.de) (Mace Lab)
 	 
 - Max Planck Institute of Ornithology (Seewiesen)
   - 
@@ -35,27 +68,16 @@ _Postdoc or PhD students representatives can help you with any work-related issu
 - Max Planck Institute of Neurobiology (Martinsried)
   - group email
   - Individual contacts:
-	  - Uwe (Bonhoeffer Lab)
+	  - [Uwe Lewin](mailto:uwe.lewin@bi.mpg.de) (Bonhoeffer Lab)
 	  - 
  
 - Max Planck Institute of Ornithology (Seewiesen)
   - 
 
 # Ombudsperson
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+_The Ombudsperson of your institute is the representent of all workers at the work council_
 
 
-<ul>
-{% for member in site.data.members %}
-  <li>
-    <a href="https://github.com/{{ member.email }}">
-      {{ member.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
+
 
 
