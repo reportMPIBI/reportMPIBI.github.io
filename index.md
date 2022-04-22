@@ -75,8 +75,7 @@ _Postdoc or PhD students representatives can help you with any work-related issu
   - 
 
 # Ombudsperson
-_The Ombudsperson of your institute is the representent of all workers at the work council_
-
+_The Ombudsperson of your institute blablabla?
 
 
 
