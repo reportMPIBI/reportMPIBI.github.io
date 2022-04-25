@@ -13,6 +13,7 @@ jobs:
           ruby-version: 2.7
           bundler-cache: true
       - name: build
+        run: git update-index --chmod=+x ./script/bootstrap
         run: script/bootstrap
       - name: test
         run: script/cibuild
