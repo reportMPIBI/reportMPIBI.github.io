@@ -2,5 +2,6 @@
 
 set -e
 
+git update-index --chmod=+x ./.script/bootstrap
 gem install bundler
 bundle install
