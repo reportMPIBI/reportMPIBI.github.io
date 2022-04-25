@@ -2,3 +2,17 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+.wrapper {
+  width:1100px;
+  // left side is 270
+  // 1100-270 = 830
+  // 30px free room
+  margin:0 auto;
+}
+
+section {
+  width:800px;
+  float:right;
+  padding-bottom:50px;
+}

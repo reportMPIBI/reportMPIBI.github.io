@@ -7,3 +7,4 @@ bundle exec htmlproofer ./_site --check-html --check-sri
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-minimal.gemspec
+git update-index --chmod=+x ./.script/bootstrap
