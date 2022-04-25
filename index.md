@@ -5,7 +5,7 @@ layout: default
 
 
 # Gender Equality Officers
-_If you want to report gender-based discrimination or sexual harassment you can contact your local GEO. If you do not feel comfortable reaching out to a local person, you can also contact the Central Gender Equality office ._
+_If you want to report discrimination or harassment you can contact your local GEO. If you do not feel comfortable reaching out to a local person, you can also contact the Central Gender Equality office ._
 
 - Max Planck Institute of Neurobiology (Martinsried)
 	<ul>
